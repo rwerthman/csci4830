@@ -1,6 +1,9 @@
 '''
 Homework #1 Problem 8
 
+Receive 4 4-byte integers from a port, add them together, and send back the sum in bytes to
+    receive a username and password
+
 '''
 
 import socket
